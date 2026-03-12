@@ -1,6 +1,4 @@
 streamlit
 pandas
-databricks-sql-connector[pyarrow]
 plotly
-
-
+databricks-sql-connector[pyarrow]
