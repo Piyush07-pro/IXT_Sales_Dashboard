@@ -11,7 +11,7 @@ try:
     connection = sql.connect(
         server_hostname="adb-7405608551394954.14.azuredatabricks.net",
         http_path="/sql/1.0/warehouses/fd7474d77ef7c8a5",
-        access_token="dapia0d4e295e3605b1be5790cb4949e4fc5-3"
+        access_token="dapi98136340a7080c890d38181a86380307-3"
     )
 
     query = "SELECT * FROM gold_top_sales"
